@@ -10,4 +10,4 @@
 
 ---
 
-Ejecutar los comandos  `docker compose ps -d` dentro de las carpetas api y rabbitmq 
+Ejecutar los comandos  `docker compose up -d` dentro de las carpetas api y rabbitmq 
